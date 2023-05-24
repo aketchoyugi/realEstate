@@ -33,7 +33,7 @@ def contact(request):
     # send_mail(
     #   'Property house Inquiry',
     #   'There has been an inquiry for ' + house + '. Sign into the admin panel for more info',
-    #   'aketchoyugi.brad@gmail.com',
+    #   'aketchoyugi@gmail.com',
     #   [salesPerson_email, 'godfreyoyugi@gmail.com'],
     #   fail_silently=False
     # )
